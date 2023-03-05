@@ -2,4 +2,4 @@
 
 ## 天龙八部
 
-[主要人物、关系](out/tianlongbabu.jpeg)
+[主要人物、关系](out/tianlongbabu.md)
